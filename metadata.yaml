@@ -1,0 +1,38 @@
+_repo: Canada-My-Landand-Other-Compositions-in-Verse_37155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacKeracher, William M. (William Mackay)
+    aliases:
+    - MacKeracher, William Mackay
+    - MacKeracher, W. M. (William Mackay)
+    birthdate: 1871
+    deathdate: 1913
+    gutenberg_agent_id: '38682'
+    url: http://www.gutenberg.org/2009/agents/38682
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry -- 20th century'
+- !lcsh 'Canada -- Poetry'
+- !lcc 'PS'
+tableOfContents: Canada, my land -- Forward, Canada! -- Canadian-born -- Know'st thou
+  the land? -- O maple leaf! -- Dominion Day -- Canada's eighteen -- Dominion Day,
+  1900 -- O Canada, mon pays, mes amours -- Sol Canadien, terre cherie -- My own Canadian
+  girl -- The St. Lawrence -- St. Lawrence and the coming ships -- The Quebec exodus
+  -- Heat -- Invocation to summer -- Sir Summer -- The night -- To beauty -- The doctor
+  -- My valentine -- My friends -- Nothing too good for the Irish -- And English toast
+  -- The Scot -- The roarin' game -- The old Scottish minister -- The Macs -- The
+  parson at the hockey match.
+title: Canada, My Land; and Other Compositions in Verse
+url: http://www.gutenberg.org/ebooks/37155
